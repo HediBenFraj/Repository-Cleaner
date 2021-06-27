@@ -16,7 +16,8 @@ A python script for linux systems used to clean any directory and sort its files
 - python package installed 
 
 You can check whether python is installed in your system by typing : " python --version "
-if it's not installed you can type sudo apt install python.
+if it's not installed you can run : 
+  - sudo apt install python.
 
 ## How to use it
 
