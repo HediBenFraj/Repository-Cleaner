@@ -66,3 +66,7 @@ examples of running script :
 - script run : 
 
 ![during_2](/screenshots/during_2.png?raw=true "during_2")
+  
+  
+  
+PS : WE get the same output as the first comman except the files were located in different directories this time.
