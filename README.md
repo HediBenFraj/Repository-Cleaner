@@ -55,3 +55,13 @@ examples of running script :
 - Folder structure 
 
 ![Content](/screenshots/content.png?raw=true "Content")
+
+
+- multiple directories : 
+
+![before_2](/screenshots/before_2.png?raw=true "before_2")
+
+
+- script run : 
+
+![during_2](/screenshots/during_2.png?raw=true "during_2")
