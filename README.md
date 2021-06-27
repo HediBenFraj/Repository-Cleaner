@@ -36,6 +36,22 @@ examples of running script :
  
 ### Demo
 
-- First Step
+- Prepare alias
 
 ![Script](/screenshots/bashrc.png?raw=true "Script")
+
+- Before 
+
+![Before](/screenshots/before.png?raw=true "Before")
+
+- Executing script 
+
+![During](/screenshots/during.png?raw=true "During")
+
+- after 
+
+![After](/screenshots/after.png?raw=true "After")
+
+- Folder structure 
+
+![Content](/screenshots/content.png?raw=true "Content")
