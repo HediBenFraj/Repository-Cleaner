@@ -55,7 +55,7 @@ examples of running script :
 
 - Folder structure 
 
-![Content](/screenshots/content.png?raw=true "Content")
+![Content](/screenshots/content_2.png?raw=true "Content")
 
 
 - multiple directories : 
