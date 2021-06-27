@@ -38,7 +38,6 @@ if(len(sys.argv)<=1):
                 os.system("mv Desktop/"+file_name+" Desktop/Sorted\ Files\ "+today+"/others/"+file_name)
 else:
     for url in sys.argv:
-        print(url, end='  ')
         output = os.popen('ls '+url).read()
         files = output.splitlines()
         for file_name in files:
