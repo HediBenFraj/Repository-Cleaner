@@ -34,3 +34,8 @@ examples of running script :
 
   - alias cleanDesktop='python /home/<username>/sortDirectoryFiles.py'
  
+### Demo
+
+- First Step
+
+![Script](/screenshots/bashrc.png?raw=true "Script")
